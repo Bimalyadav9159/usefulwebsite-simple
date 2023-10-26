@@ -1,0 +1,36 @@
+h1{
+    background-color: blue;
+    color: white;
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+p{
+    color: rgb(42, 165, 58);
+    font-size: 25px;
+    text-align: center;
+}
+div{
+    
+    justify-content: center;
+}
+button{
+    background-color: rgb(78, 23, 230);
+    color: rgb(198, 198, 212);
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 15px;
+    text-align: center;
+    
+}
+button:hover{
+    background-color: chartreuse;
+    color: black;
+}
+.btn{
+    color: red;
+    background-color: aqua;
+    font-size: 20px;
+    float: right;
+}
